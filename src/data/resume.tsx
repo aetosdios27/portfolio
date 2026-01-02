@@ -86,7 +86,7 @@ export const DATA = {
     {
       title: "WebNotes",
       href: "https://github.com/aetosdios27/WebNotes",
-      dates: "2024 — Present",
+      dates: "2025 — Present",
       active: true,
       description:
         "Cross-platform desktop app built with Tauri and Rust. Local-first architecture with SQLite + FTS5 delivering sub-millisecond full-text search. Custom Tiptap rich-text editor with LaTeX support and Google OAuth integration.",
@@ -112,7 +112,7 @@ export const DATA = {
     {
       title: "Uniway",
       href: "https://github.com/pranav718/Atlas",
-      dates: "2024",
+      dates: "2025",
       active: false,
       description:
         "Campus navigation tool with interactive building visualization and real-time pathfinding. Built and shipped in 48 hours at MUJ Hackathon.",
