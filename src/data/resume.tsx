@@ -111,7 +111,7 @@ export const DATA = {
     },
     {
       title: "Uniway",
-      href: "https://github.com/aetosdios27",
+      href: "https://github.com/pranav718/Atlas",
       dates: "2024",
       active: false,
       description:
