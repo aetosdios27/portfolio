@@ -58,7 +58,18 @@ export const DATA = {
     },
   },
 
-  work: [],
+  // FIX: Explicitly type this empty array so TypeScript knows what 'work' looks like
+  work: [] as Array<{
+    company: string;
+    href: string;
+    badges: readonly string[];
+    location: string;
+    title: string;
+    logoUrl: string;
+    start: string;
+    end: string;
+    description: string;
+  }>,
 
   education: [
     {
